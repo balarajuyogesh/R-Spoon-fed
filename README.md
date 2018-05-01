@@ -1,0 +1,2 @@
+# R-Spoon-fed
+This book is intended to have a discernable effect on your Data Science career. The prime focus is on computational and programmer efficiency. At the time of writing this book CRAN package repository has 12554 packages and makes it challenging to harness the power the of R. There are many resources available as bits and pieces on the internet, this book is about unifying those resources and helps you with a structured approach in dealing with large datasets.  
